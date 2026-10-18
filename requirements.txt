@@ -1,0 +1,4 @@
+ijson
+apache-airflow-providers-mysql
+pandas
+mysql-connector-python
